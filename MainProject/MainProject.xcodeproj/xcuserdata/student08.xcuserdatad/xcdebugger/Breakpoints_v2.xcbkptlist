@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "1F3C166E-F4FF-4AA8-AF35-36CFDFBC0F43"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "881F184C-28FC-4C76-98C6-40824B3140F7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MainProject/SwiftUIView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10"
+            landmarkName = "SwiftUIView"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "881F184C-28FC-4C76-98C6-40824B3140F7 - 11939d6c51aa4b24"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MainProject.SwiftUIView.init() -&gt; MainProject.SwiftUIView"
+                  moduleName = "MainProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/student08/Downloads/backa/MainProject/MainProject/SwiftUIView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "84">
+               </Location>
+               <Location
+                  uuid = "881F184C-28FC-4C76-98C6-40824B3140F7 - 19830be9c53ab108"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MainProject.SwiftUIView.init(play: Swift.String, p: Swift.Optional&lt;MainProject.playlist&gt;, musicNow: MainProject.song, sound: Swift.Optional&lt;Swift.String&gt;, songs: Swift.Array&lt;MainProject.song&gt;, audioPlayer: Swift.Optional&lt;__C.AVAudioPlayer&gt;) -&gt; MainProject.SwiftUIView"
+                  moduleName = "MainProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/student08/Downloads/backa/MainProject/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "60">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
